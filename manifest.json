@@ -1,0 +1,11 @@
+{
+  "name": "Quora Search",
+  "description": "Search selected text on Quora",
+  "version": "1.0",
+  "permissions": ["contextMenus"],
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}
