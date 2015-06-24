@@ -1,2 +1,2 @@
 # SearchQuora
-Chrome extension to search any text on Quora
+Chrome extension to search selected text on Quora
